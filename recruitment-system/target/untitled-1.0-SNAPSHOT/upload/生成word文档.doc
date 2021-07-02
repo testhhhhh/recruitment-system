@@ -1,0 +1,20 @@
+Mime-Version: 1.0
+Content-Base: http://localhost:8080/rs/user/pdf.jsp
+Content-Type: Multipart/related; boundary="NEXT.ITEM-BOUNDARY";type="text/html"
+
+--NEXT.ITEM-BOUNDARY
+Content-Type: text/html; charset="utf-8"
+Content-Location: http://localhost:8080/rs/user/pdf.jsp
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+</head>
+<body>
+    <p style="font-size:20pt;font-weight:bold;" align="center">JS导出Word文档</p>
+</body></html>
+--NEXT.ITEM-BOUNDARY--
